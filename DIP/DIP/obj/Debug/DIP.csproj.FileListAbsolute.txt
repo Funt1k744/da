@@ -1,0 +1,12 @@
+D:\Диплом\VisualStudio\DIP\DIP\bin\Debug\DIP.exe.config
+D:\Диплом\VisualStudio\DIP\DIP\bin\Debug\DIP.exe
+D:\Диплом\VisualStudio\DIP\DIP\bin\Debug\DIP.pdb
+D:\Диплом\VisualStudio\DIP\DIP\obj\Debug\DIP.csproj.AssemblyReference.cache
+D:\Диплом\VisualStudio\DIP\DIP\obj\Debug\DIP.csproj.SuggestedBindingRedirects.cache
+D:\Диплом\VisualStudio\DIP\DIP\obj\Debug\DIP.Authorization.resources
+D:\Диплом\VisualStudio\DIP\DIP\obj\Debug\DIP.Main.resources
+D:\Диплом\VisualStudio\DIP\DIP\obj\Debug\DIP.Properties.Resources.resources
+D:\Диплом\VisualStudio\DIP\DIP\obj\Debug\DIP.csproj.GenerateResource.cache
+D:\Диплом\VisualStudio\DIP\DIP\obj\Debug\DIP.csproj.CoreCompileInputs.cache
+D:\Диплом\VisualStudio\DIP\DIP\obj\Debug\DIP.exe
+D:\Диплом\VisualStudio\DIP\DIP\obj\Debug\DIP.pdb
